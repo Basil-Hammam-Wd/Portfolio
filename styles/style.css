@@ -1,18 +1,18 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@500;700&display=swap");
 
 :root {
-  --primaryTextColor: #3f1823; /* Untuk title atau judul */
-  --secondaryTextColor: #382b30; /* Untuk text biasa seperti paragraph contohnya */
+  --primaryTextColor: #1c1b05; /* Untuk title atau judul */
+  --secondaryTextColor: #6c6918; /* Untuk text biasa seperti paragraph contohnya */
 
-  --borderColor: #a88f69;
-  --lineColor: #51371f; /* untuk line di pre-title */
+  --borderColor: #b0b373;
+  --lineColor: #514f1f; /* untuk line di pre-title */
 
-  --primaryBackgroundColor: #b89c76;
-  --secondaryBackgroundColor: #c1ab82;
-  --thirdBackgroundColor: #c6ad9d;
+  --primaryBackgroundColor: #b4b876;
+  --secondaryBackgroundColor: #c1c182;
+  --thirdBackgroundColor: #c5c69d;
 
-  --primaryIconColor: #674d26;
-  --primaryIconColorHover: #c49145;
+  --primaryIconColor: #646726;
+  --primaryIconColorHover: #c0c445;
 
   --sectionPadding: 6rem 0;
 
